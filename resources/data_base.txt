@@ -1,0 +1,20 @@
+70599547277;Marta;Apaka;Wyszyńskiego 80;;Wrocław
+97235017096;Adam;Lach;Michalczyka 128;57-911;Gdańsk
+;;Kowal;;51-520;Warszawa
+77309712376;Adam;Krowa;Wyszyńskiego 16;57-802;Gdańsk
+70200196109;Michał;Guma;Ciepła 12;54-622;Warszawa
+98581147514;Konrad;;Chrobrego 83;58-509;Warszawa
+98832419110;Bogumił;Wójtowicz;Ciepła 41;50-451;Kraków
+;Aleksander;Nowak;Pełczyńska 65;54-508;Poznań
+72689744841;Adam;Krzyk;Pełczyńska 98;57-911;Gdańsk
+82826625848;Konrad;Berek;Pełczyńska 12;56-177;Wrocław
+79874349967;Ania;Berek;;58-411;Gdańsk
+71840563489;Viola;Kowal;Borowska 94;;Poznań
+72204322536;Michał;Dadel;Malarska 118;51-496;Warszawa
+;Kasia;Wójtowicz;Wyszyńskiego 48;54-771;Gdańsk
+83082564437;Basia;Kowal;Pełczyńska 52;54-294;Warszawa
+77192167575;Michał;Dadel;Michalczyka 35;58-498;Gdańsk
+99650340095;;Lach;Chrobrego 96;57-995;Wrocław
+85322399152;Aleksander;Guma;Wyszyńskiego 129;52-730;Kraków
+76089491836;Julia;Grzeszek;Malarska 105;50-521;Warszawa
+72998815461;;Berek;Wyszyńskiego 127;52-687;Gdańsk
